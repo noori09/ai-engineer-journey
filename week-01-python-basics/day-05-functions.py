@@ -167,3 +167,14 @@ def double_correct(x):
 
 result = double_correct(5)
 print("Correct result:", result)    # 10
+
+
+
+# ========== Mini Challenge =========
+def describe_person(name,age="unknown",city="somewhere"):
+    print(f"Hi, I am {name}, {age} years old, from {city} ")
+    
+describe_person("Noori", 29, "Sirsa")
+describe_person("Nitish")
+describe_person("Ekta", city="Sirsa")
+describe_person("Radhika", age=28)

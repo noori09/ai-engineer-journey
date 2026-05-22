@@ -16,7 +16,7 @@ mini-exercises, and projects from Day 1 to Day 84.
 - [x] Day 2: Variables, input/output, f-strings
 - [x] Day 3: Lists and dictionaries
 - [x] Day 4: If-else and loops
-- [ ] Day 5: Functions
+- [x] Day 5: Functions
 - [ ] Day 6: Virtual environments + pip + requests library
 - [ ] Day 7: Mini project — Joke API fetcher
 

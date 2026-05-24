@@ -1,0 +1,11 @@
+{
+  "name": "Noori",
+  "age": 29,
+  "city": "sirsa",
+  "skills": [
+    "React",
+    "JavaScript",
+    "Python"
+  ],
+  "currently_learning": "AI Engineering"
+}

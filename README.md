@@ -20,8 +20,17 @@ mini-exercises, and projects from Day 1 to Day 84.
 - [x] Day 6: Virtual environments + pip + requests library
 - [X] Day 7: Mini project — Joke API fetcher
 
+### Week 2: First Claude API conversations
+- [x] Day 8: Anthropic API key + account setup
+- [x] Day 9: First Claude API call
+- [] Day 10: Understanding the request
+- [] Day 11: System prompts
+- [] Day 12: Conversation memory
+- [] Day 13: Error handling and costs
+- [] Day 14: Mini project + commit
+
+
 ### Upcoming
-- [ ] Week 2: First Claude API conversations
 - [ ] Week 3: Prompt Engineering
 - [ ] Week 4: AI Chatbot with Next.js *(Project #1)*
 - [ ] Week 5: RAG foundations
